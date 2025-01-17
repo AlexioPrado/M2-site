@@ -3,8 +3,8 @@
     Chapter case
 
     Tinley Xeriscapes
-    Author: 
-    Date:   
+    Author: Marcus Prado
+    Date:   1/17/25
 
     Filename: js01b.js
 */
